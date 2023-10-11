@@ -1,4 +1,4 @@
-# Curso-Machine-Learning
+# Curso Machine Learning
 Recopilación de ejercicios de practica del Curso de Machine Learning.
 
 ### Día 1 - Lunes (09/10/2023)
