@@ -1,13 +1,13 @@
 # Curso-Machine-Learning
 Recopilación de ejercicios de practica del Curso de Machine Learning.
 
-### Día 1 - Lunes
+### Día 1 - Lunes (09/10/2023)
 
   - M5 - 01 - Python Notebook
   - M5 - 02 - Condicionales
   - M5 - 03 - Bucles
 
-### Día 2 - Martes
+### Día 2 - Martes (10/10/2023)
 
   - M5 - 10 - Pandas
   - SpaceX - 1 - Data Collection Api v2
