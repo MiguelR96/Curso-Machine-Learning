@@ -1,5 +1,6 @@
 # Curso Machine Learning
-[Contacto](mailto:miguelbrao1996@gmail.com) \n
+[Contacto](mailto:miguelbrao1996@gmail.com) 
+
 Recopilación de ejercicios de practica del Curso de Machine Learning.
 
 ### Día 1 - Lunes (09/10/2023)
