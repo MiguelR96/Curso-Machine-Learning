@@ -3,6 +3,10 @@
 
 Recopilación de ejercicios de practica del Curso de Machine Learning.
 
+```bash
+Abrir en google colab
+```
+
 ### Día 1 - Lunes (09/10/2023)
 
   - M5 - 01 - Python Notebook
