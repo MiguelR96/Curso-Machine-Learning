@@ -18,3 +18,10 @@ Abrir en google colab
   - M5 - 10 - Pandas
   - SpaceX - 1 - Data Collection Api v2
   - SpaceX - 4 - EDA with Data Visualization
+
+### Día 2 - Martes (11/10/2023)
+
+  - M5 - 06 - Introducción a Machine Learning con Scikit-Learn
+  - M5 - 09 - Folium
+  - Prophet v2 - Predecir el valor de Bitcoin/EUR
+  - SpaceX - EDA using SQL
