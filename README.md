@@ -31,3 +31,9 @@ Abrir en google colab
   - M5 - SPACEX2 - 5 - Interactive Visual Analytics con Folium
   - M5 - SPACEX2 - 6 - Machine Learning Predicciones
   - M5 - 10 - Matplotlib y Seaborn
+
+### Día 4 - (13/10/2023)
+
+  - M5 - 11 - Plotly
+  - M5 - CLA - 01 - Regresión Logística
+  - M5 - REG - 03 - Regresión Polinómica
