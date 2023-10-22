@@ -28,9 +28,9 @@ Abrir en google colab
 
 ### Día 4 
 
+  - M5 - 10 - Matplotlib y Seaborn
   - M5 - SPACEX2 - 5 - Interactive Visual Analytics con Folium
   - M5 - SPACEX2 - 6 - Machine Learning Predicciones
-  - M5 - 10 - Matplotlib y Seaborn
 
 ### Día 5 
 
