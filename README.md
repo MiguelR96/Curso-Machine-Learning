@@ -24,7 +24,7 @@ Abrir en google colab
   - M5 - 06 - Introducción a Machine Learning con Scikit-Learn
   - M5 - 09 - Folium
   - Prophet v2 - Predecir el valor de Bitcoin/EUR
-  - SpaceX - EDA using SQL
+  - SpaceX - 3 - EDA using SQL
 
 ### Día 4 
 
